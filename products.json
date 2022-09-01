@@ -1,0 +1,57 @@
+[
+    {
+      "model": "products_api.Product",
+      "pk": 1,
+      "fields": {
+        "product_name": "Hornby 2014 Catalogue",
+        "vendor": "Hornby",
+        "category": "Hobbies",
+        "price": 10.5,
+        "description": "Product Description Hornby 2014 Catalogue Box Contains 1 x one catalogue"
+      }
+    },
+    {
+      "model": "products_api.Product",
+      "pk": 2,
+      "fields": {
+        "product_name": "Kato & Rio Grande Western",
+        "vendor": "Kato",
+        "category": "Locomotives",
+        "price": 273.60,
+        "description": "Suitable for the following scale(s): N Scale"
+      }
+    },
+    {
+      "model": "products_api.Product",
+      "pk": 3,
+      "fields": {
+        "product_name": "Motion Sand Pack",
+        "vendor": "Motion Sand",
+        "category": "Art sand",
+        "price": 12.99,
+        "description": "Motion Sand® is the squeezable sand where you can FEEL the fun! Pack it, pull it, shape it"
+      }
+    },
+  {
+      "model": "products_api.Product",
+      "pk": 4,
+      "fields": {
+        "product_name": "Lanyard With Dopey Head Dangle",
+        "vendor": "Disney",
+        "category": "Toys",
+        "price": 19.70,
+        "description": "Dopey Dwarf Lanyard With Grumpy Head DangleLanyard With ID HolderIncludes Attached Spring"
+      }
+    },
+  {
+      "model": "products_api.Product",
+      "pk": 5,
+      "fields": {
+        "product_name": "Iphone 13",
+        "vendor": "Apple",
+        "category": "Mobiles",
+        "price": 899.99,
+        "description": "Apple's iPhone 13 features Super Retina XDR display with True Tone and an A15 Bionic chip"
+      }
+    }
+  ]
